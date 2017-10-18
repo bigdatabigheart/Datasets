@@ -1,12 +1,10 @@
-#Epilepsy QLD
+# Epilepsy QLD
 
-##Donor Information
+## Donor Information
 
 This dataset is a de-identified dataset of donors to Epilepsy QLD, it is used for fund raising drives etc.
 
 It contains people who have epilepsy and other information
-
-http://rawgit.com/bigdatabigheart/Datasets/master/EpilepsyQLD/donor_information.html
 
 There are a bunch of codes that can be used to make sense of the dataset:
 
