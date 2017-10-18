@@ -38,7 +38,7 @@ The Code field is deciphered as follows:
 72 = Unspecified special event
 
 
-# Access and Use
+## Access and Use
 Citation Policy:
 
 If you publish material based on databases obtained from this repository, then, in your acknowledgements, please note the assistance you received by using this repository. This will help others to obtain the same data sets and replicate your experiments. We suggest the following pseudo-APA reference format for referring to this repository:
@@ -54,5 +54,5 @@ title = "{UCI} Machine Learning Repository",
 url = "http://archive.ics.uci.edu/ml",
 institution = "University of California, Irvine, School of Information and Computer Sciences" }
 
-# Source
+## Source
 [UCI Machine Learning Archives](https://archive.ics.uci.edu/ml/datasets/diabetes)

@@ -1,4 +1,4 @@
-# Allenghey County Diabetes and Hypertension Cormorbidity
+# Allegheny County Diabetes and Hypertension Cormorbidity
 
 This data set provides de-identified population data for diabetes and hypertension comorbidity prevalence in Allegheny County. 
 

@@ -15,7 +15,7 @@ Sources:
    (c) Date received: 9 May 1990
 
 Past Usage:
-    1. Smith,~J.~W., Everhart,~J.~E., Dickson,~W.~C., Knowler,~W.~C., \&
+       Smith,~J.~W., Everhart,~J.~E., Dickson,~W.~C., Knowler,~W.~C., \&
        Johannes,~R.~S. (1988). Using the ADAP learning algorithm to forecast
        the onset of diabetes mellitus.  In {\it Proceedings of the Symposium
        on Computer Applications and Medical Care} (pp. 261--265).  IEEE
@@ -90,5 +90,5 @@ title = "{UCI} Machine Learning Repository",
 url = "http://archive.ics.uci.edu/ml",
 institution = "University of California, Irvine, School of Information and Computer Sciences" }
 
-# Source
+## Source
 [UCI Machine Learning Archive](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes)

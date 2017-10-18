@@ -4,7 +4,7 @@ NDSS national diabetes data snapshots are updated every three months, and provid
 
 Snapshots for previous quarters can be found at the source link below
 
-# Access and Use Policy
+## Access and Use Policy
 Linking to this website:
 
 We encourage other sites to consider linking to this website. However, you must not link to any page of this website without our prior consent.
@@ -18,5 +18,5 @@ Diabetes Australia will contact you if it consents to you linking to this websit
 * The National Diabetes Services Scheme (NDSS) is an initiative of the Australian Government administered by Diabetes Australia. The NDSS delivers diabetes-related products at subsidised prices and provides information and support services to people with diabetes.
 * you must not place or phrase links in any manner that is misleading or that implies that Diabetes Australia or the NDSS endorses, sponsors or approves of your website / product / service, or that you or your website is in anyway affiliated with Diabetes Australia or the NDSS.
 
-# Source
+## Source
 [Diabetes Australia](https://www.ndss.com.au/data-snapshots)

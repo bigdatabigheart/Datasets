@@ -1,7 +1,9 @@
-#School Food Orders Data Sets
-School Lunch Data
+# Insurance Data for Diabetes
 
-http://rawgit.com/bigdatabigheart/Datasets/master/SchoolFoodOrders/school_locations.html
+These datasets provide de-identified insurance data for diabetes. The data is provided by three managed care organizations in Allegheny County (Gateway Health Plan, Highmark Health, and UPMC) and represents their insured population for the 2015 calendar year. 
 
+## Access and Use Information
+This dataset is intended for public access and use.
 
-http://rawgit.com/bigdatabigheart/Datasets/master/SchoolFoodOrders/school_food_orders.html
+## Link to Source
+[Data.gov](https://catalog.data.gov/dataset/diabetes)
