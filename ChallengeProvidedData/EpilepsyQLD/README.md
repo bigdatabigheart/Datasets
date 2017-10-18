@@ -19,6 +19,6 @@ There are a bunch of codes that can be used to make sense of the dataset:
 
 http://rawgit.com/bigdatabigheart/Datasets/master/ChallengeProvidedData/EpilepsyQLD/donor_information.html
 
-##Data bucket Location
+## Data Bucket Location
 
 s3://{location}/epilepsy_qld/donor_information
