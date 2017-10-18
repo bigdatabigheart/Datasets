@@ -1,4 +1,4 @@
-# UCI Diabetes Data set
+# UCI Diabetes Data Set
 
 This directory contain a data set prepared for the use of participants for the 1994 AAAI Spring Symposium on Artificial Intelligence in Medicine.
 
