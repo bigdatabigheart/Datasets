@@ -105,5 +105,5 @@ ENV/
 .idea/
 
 #csv
-*.csv
+*.xls
 *.xlsx

@@ -1,0 +1,15 @@
+﻿ID,Name,Type,Active,TaskTypeCategoryID
+4,Ferry Flight,Other,1,3
+9,Maintenance Test Flight,Other,1,3
+15,Public Relations,Other,1,4
+17,Training- Aircrew,Other,1,2
+18,Training- CTS,Other,1,2
+19,Training- External,Other,1,2
+20,Training- Pilot,Other,1,2
+21,IHT,Mission,1,1
+22,PR,Mission,1,1
+23,PRIHT,Mission,1,1
+24,Clinic,Mission,1,1
+25,Clinic-Charter,NULL,1,1
+26,Clinic-Primary,NULL,1,1
+27,SAR,NULL,1,1

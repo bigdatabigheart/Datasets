@@ -1,0 +1,55 @@
+Flight Data,,,,
+Field Name,Definition,,,
+FlightID,Unique identifier for the flight. Use this to join the leg data with the flight data,,,
+FltDate,Flight Date,,,
+RSQ Ref No,Mission number given by RSQ,,,
+LCC Ref No,Lifeflight mission number,,,
+Task Status,"Status of the task (Completed, cancelled prior to task, cancelled during task, maintenance flight)",,,
+Task Type,"Task Type:
+AUSSAR / QPSSAR : Search and Rescue mission
+IFT : Inter Facility Transfer (Hospital to Hospital)
+IFT Neonatal: IFT for babies
+Primary : transport a patient from a scene (not hospital)
+Primary MVA : transport a patient from a motor vehicle accident.
+Repositioning: ferry flight to move the flight to a designated location without a patient on board
+Training: training flight
+Disaster ops: flight attending to an adhoc disaster recovery (e.g. floods)
+Maintenance Flight: maintenance flight
+Other: other type of task
+
+
+",,,
+Tasking Agency,The agency that gives the tasking.,,,
+Rego,Aircraft registration number,,,
+Base,The base where the helicopter starts its mission.,,,
+Total Engine Time,Total engine hours for the task (engine start to engine shut down),,,
+Total Flight Time,Total flight hours for the task (take-off to landing),,,
+Total Ground Time,The time spent on the mission when the engine is off (e.g. waiting to pick up patients),,,
+No Patients,Number of patients,,,
+Delay Reason,Reason on why there is a delay in the response time between the accepted time and aircraft ready time,,,
+Task Summary,Task summary,,,
+Initial Call Time,The time when the call first received for the task.,,,
+Accepted Time,The time when the task is accepted,,,
+Aircraft Ready Time,The time of the engine start time of the first leg.,,,
+Sending Facility,Hospital that sends the patient for transfer,,,
+Receiving Facility,Hospital that receives the patient (either from a hospital transfer or from a primary scene),,,
+Pick Up Location,Location where the helicopter picks up the patient,,,
+Drop Off Location,Location where the helicopter drops off the patient other than a hospital (e.g. drop off the patient at the airport for further transfer by ambulance).,,,
+Route,The route of the task.,,,
+,,,,
+,,,,
+Leg Data,,,,
+FlightID,Unique identifier for the flight. Use this to join the leg data with the flight data,,,
+LegID,Unique identifier for the Leg,,,
+FltDate,Flight Date,,,
+Rego,Aircraft registration number,,,
+Total Engine Time,Total engine hours for the task (engine start to engine shut down),,,
+Total Flight Time,Total flight hours for the task (take-off to landing),,,
+Start Time  Block Time,Helicopter engine Start Time,,,
+Take Off Time,Helicopter take-off time,,,
+Landing Time,Helicopter landing time,,,
+Engine Shutdown Time,Helicopter engine shut down time.,,,
+EngineMins,Engine time in minutes (engine start to shutdown),,,
+Engine Time,Engine time in decimal (engine start to shutdown),,,
+FlightMins,Flight time in minutes (helicopter take-off to landing),,,
+Flight Time Dec,Flight time in decimal (helicopter take-off to landing),,,

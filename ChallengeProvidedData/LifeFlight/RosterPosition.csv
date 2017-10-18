@@ -1,0 +1,10 @@
+﻿ID,Title,Active,SortOrder
+1,Pilot,1,10
+2,Nursing,1,40
+3,Medical Officers,1,30
+4,Flight Standards,1,50
+5,Non-RFDS,1,90
+6,WBC,1,60
+7,Mental Health,1,70
+8,Family Health,1,80
+9,Pilot In Charge,1,20
