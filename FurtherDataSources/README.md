@@ -8,6 +8,8 @@
 
 [Opendatainception.io](https://opendatainception.io/) has a browser that links to open data sets across Australia and around the world.
 
+# Diabetes
+
 ## AIM Centre for Machine Learning and Intelligence
 
 * [1994 Diabetes Data Set](https://archive.ics.uci.edu/ml/datasets/diabetes)
