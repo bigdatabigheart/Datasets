@@ -30,3 +30,7 @@
 ## Data.world
 
 * [Data.world](https://data.world/datasets/diabetes) has 10 datasets related to Diabetes.
+
+## Diabetes Atlas data
+
+* [Diabetes Atlas](http://www.diabetesatlas.org/atlas/atlas.html) has data about Diabetes incidence worldwide.
