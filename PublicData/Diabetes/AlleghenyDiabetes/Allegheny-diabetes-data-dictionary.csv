@@ -1,0 +1,11 @@
+Code,Dicription
+CT,Census Tract
+BPAD ,"Total number of members, who are Allegheny County residents and who were effectively enrolled for at least 90 continuous days during the 2015 calendar year (Jan 1 - Dec 31). "
+BPAN ,(Diagnosed):   Total number of members who met the denominator criteria and are diagnosed with Type 2 diabetes mellitus. 
+BPAN2 ,"(Diagnosed & Medicated): Total number of members who met the denominator criteria, who are diagnosed with Type 2 diabetes mellitus, and had at least one Type 2 diabetes related medication claim. "
+BWAD ,"Total number of women members, who are Allegheny County residents and who were effectively enrolled for at least 90 continuous days during the 2015 calendar year (Jan 1 - Dec 31). "
+BWAN ,(Diagnosed):   Total number of women members who met the denominator criteria and are diagnosed with Type 2 diabetes mellitus. 
+BWAN2 ,"(Diagnosed & Medicated): Total number of women members who met the denominator criteria, who are diagnosed with Type 2 diabetes mellitus, and had at least one Type 2 diabetes related medication claim. "
+BMAD ,"Total number of male members, who are Allegheny County residents and who were effectively enrolled for at least 90 continuous days during the 2015 calendar year (Jan 1 - Dec 31). "
+BMAN ,(Diagnosed):   Total number of male members who met the denominator criteria and are diagnosed with Type 2 diabetes mellitus. 
+BMAN2 ,"(Diagnosed & Medicated): Total number of male members who met the denominator criteria, who are diagnosed with Type 2 diabetes mellitus, and had at least one Type 2 diabetes related medication claim. "
