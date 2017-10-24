@@ -13,7 +13,7 @@ The response variable is 'State' in column 179. 'State' contains the category of
 
 2- They recorder the EEG from the area where the tumor was located
 
-All subjects falling in classes 2, 3, 4, and 5 are subjects who did not have epileptic seizure
+All subjects falling in classes 2, 3, 4, and 5 are subjects who did not have an epileptic seizure
 
 1- Recording of seizure activity
 
