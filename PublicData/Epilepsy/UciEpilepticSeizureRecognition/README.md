@@ -15,6 +15,7 @@ The response variable is 'State' in column 179. 'State' contains the category of
 
 All subjects falling in classes 2, 3, 4, and 5 are subjects who did not have an epileptic seizure
 
+
 1- Recording of seizure activity
 
 
