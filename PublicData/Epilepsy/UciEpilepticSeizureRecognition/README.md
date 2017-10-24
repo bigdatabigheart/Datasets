@@ -3,9 +3,7 @@
 The original dataset consists of 5 different folders, each with 100 files, with each file representing a single subject/person. Each file is a recording of brain activity for 23.6 seconds. The corresponding time-series is sampled into 4097 data points. Each data point is the value of the EEG recording at a different point in time.
 
 
-The response variable is y in column 179
-
-y contains the category of the 178-dimensional input vector. Specifically y in {1, 2, 3, 4, 5}:
+The response variable is 'State' in column 179. 'State' contains the category of the 178-dimensional input vector. Specifically state in {1, 2, 3, 4, 5}:
 
 5- eyes open, means when they were recording the EEG signal of the brain the patient had their eyes open
 
