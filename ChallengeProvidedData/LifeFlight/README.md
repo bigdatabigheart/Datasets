@@ -11,9 +11,9 @@ The patient weight limit is an individual limit.
 The routes are made using ICAO codes, for instance ‘YBBN-YBRK-YHBA-YBBN’ is Brisbane-Rockhampton-Hervey Bay-Brisbane. Flight Sectors in the database are recorded row by row. To that end there is a SQL Server function ConvertRouteToSectors, which will convert a route string such as the one above, into its route locations. The Route Order field is used to ensure the routes are presented in order, particularly when a route is inserted later.
 
 DepartureId       DestinationId     RouteOrder
-156                         835                         1000
-835                         448                         1050
-448                         156                         1100
+156                         835           1000
+835                         448           1050
+448                         156           1100
 
 The data is a representation of moves that have been done historically. It gives an exact picture of how patients were moved. 
 
