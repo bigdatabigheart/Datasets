@@ -26,7 +26,7 @@ each file is a recording of brain activity for 23.6 seconds. The corresponding t
 
 
 ## Source
-(UCI Epilepsy Seizure Recognition)[https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition]
+[UCI Epilepsy Seizure Recognition](https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition)
 
 
 

@@ -32,6 +32,6 @@ Must cite this Reference
 
 
 ## Source
-(ntsa.upf.edu)[http://ntsa.upf.edu/downloads/andrzejak-rg-schindler-k-rummel-c-2012-nonrandomness-nonlinear-dependence-and]
+[ntsa.upf.edu](http://ntsa.upf.edu/downloads/andrzejak-rg-schindler-k-rummel-c-2012-nonrandomness-nonlinear-dependence-and)
 
 The above link also contains all source code for the study.
